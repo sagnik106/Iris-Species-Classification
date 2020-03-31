@@ -32,7 +32,7 @@ Accuracy : 100.000
 
 1. Neural Network
 Accuracy
-![Neural Network Accuracy](https://github.com/sagnik106/Iris-Species-Classification/blob/master/resources/accuracy.jpg)
+![Neural Network Accuracy](https://github.com/sagnik106/Iris-Species-Classification/blob/master/resources/accuracy.jpg)</br>
 Loss
 ![Neural Network Loss](https://github.com/sagnik106/Iris-Species-Classification/blob/master/resources/loss.jpg)
 
