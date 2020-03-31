@@ -31,9 +31,9 @@ Wrong prediction : 0</br>
 Accuracy : 100.000
 
 1. Neural Network
-Accuracy
+Accuracy</br>
 ![Neural Network Accuracy](https://github.com/sagnik106/Iris-Species-Classification/blob/master/resources/accuracy.jpg)</br>
-Loss
+Loss</br>
 ![Neural Network Loss](https://github.com/sagnik106/Iris-Species-Classification/blob/master/resources/loss.jpg)
 
 ## Training and Testing
